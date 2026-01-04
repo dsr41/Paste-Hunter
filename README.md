@@ -34,7 +34,7 @@ Instead of simple keyword matching, it uses a **Heuristic Threat Scoring** algor
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Paste-Hunter.git](https://github.com/YOUR_USERNAME/Paste-Hunter.git)
+git clone https://github.com/dsr41/Paste-Hunter.git
 cd Paste-Hunter
 
 
